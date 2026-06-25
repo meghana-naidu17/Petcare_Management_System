@@ -1,0 +1,10 @@
+class Item{
+    int profit, weight;
+    double ratio;
+    Item(int profit, int weight){
+        profit = p;
+        weight = w;
+        ratio = (double)p/w;
+    }
+}
+public class
